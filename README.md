@@ -26,17 +26,15 @@ ganhou uma bolsa de doutorado da Universidade do Cairo, no Egito,
  com todos os gastos de passagem e moradia e demais despesas 
  por conta do governo egípcio. Um sonho não? No entanto, você nunca se candidatou a tal vaga."
 
-            def local1():
-
-    print(''' Eu sou um número de quatro dígitos.
-    O primeiro dígito é 1/2 do último.
-    O segundo dígito é três vezes o primeiro. 
-    Já o terceiro é o segundo dígito mais três. 
-    Multiplique tudo por dois, em que ano eu nasci?''')
-
-    resposta = int(input(': '))
-    
-    if resposta ...
+            while n <= tentativa:
+        chute = int(input('arrisque o seu número: '))
+        
+        if chute == num:
+            print('Você acertou! Leia a mensagem')
+            print('No novo tempo, os filhos dos antigos guardam as histórias dos grandes a margem Nilo, lá também estará o meu livro. ') 
+            print(museux())
+            break
+        n = n + 1 
 
  :eyes: [Olho de Hórus ](https://br.pinterest.com/pin/821484788255898593/) :eyes:
  -
