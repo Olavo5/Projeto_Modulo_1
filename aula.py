@@ -1,37 +1,4 @@
-﻿''' for pais in onu:
-    print(pais)
-    idioma = input('Qual é o idioma falado nesse país? ')
-print('A ordem correta é: chinês, inglês, russo, inglês e francês')'''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-print('''
-     Ao voltar para hospedagem você recebe uma carta anônima marcando um encontro.
-     O local é na Esfinge de Gizé, às 20h00, para recuperar os pertences. 
-     No entanto, algo parece muito suspeito, pois o sítio arquelógico não abre a noite. ''')
-
-def personagem():
-    n         = 1
-    tentativa = 3
+﻿def personagem1():
     
     print('Escolha o seu personagem: ')
     print('(A) Dimitri | (B) Alice | (C) Miguel')
