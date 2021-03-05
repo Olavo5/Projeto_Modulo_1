@@ -52,38 +52,6 @@ print('''
  
 linha2()
 
-def personagem1():
-    
-    print('Escolha o seu personagem: ')
-    print('(A) Dimitri | (B) Alice | (C) Miguel')
-    linha2()
-    escolha = input(': ').upper()
-    linha2()
-    
-    if   escolha  == 'A':
-        
-        print('''
-         O Dimitri é um arqueólogo brasileiro e ganhou uma bolsa de doutorado da Universidade do Cairo,
-         no Egito, com todos os gastos de passagem e moradia e demais despesas por conta do governo egípcio.
-         No entanto, apesar de ser o seu sonho, você nunca se candidatou a tal vaga.
-         E aí, vai aceitar a oferta? Digite SIM ou NÃO?''')
-        linha2()
-
-    elif escolha  == 'B':
-        print('''
-         A Alice é uma matemática brasileira e ganhou uma bolsa de doutorado da Universidade do Cairo,
-         no Egito, com todos os gastos de passagem e moradia e demais despesas por conta do governo egípcio.
-         No entanto, apesar de ser o seu sonho, você nunca se candidatou a tal vaga.
-         E aí, vai aceitar a oferta? Sim ou não?''') 
-    elif escolha  == 'C':
-            print('''
-            O Miguel é uma arquiteto brasileira e ganhou uma bolsa de doutorado da Universidade do Cairo,
-            no Egito, com todos os gastos de passagem e moradia e demais despesas por conta do governo egípcio.
-            No entanto, apesar de ser o seu sonho, você nunca se candidatou a tal vaga.
-            E aí, vai aceitar a oferta? Sim ou não? ''' ) 
-            linha2()
-    else:
-        print('Opção inválida. Fim de jogo.')
 
 
 # Início da história e escolha dos personagens.
