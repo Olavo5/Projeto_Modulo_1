@@ -5,9 +5,9 @@ Esse é o primeiro projeto do curso Vamo Aí. O curso possui ênfase em dados e 
 [Meu GitHub](https://github.com/Olavo5?tab=repositories)
 > ## **Informações Básicas:**
 
-| Linguagem | Tema | Dados do úsuario|
-|:---------:|:-----|:-----------------|
-| Python    | Mitologia | Nome e Idade|
+| Linguagem | Tema | 
+|:---------:|:-----|
+| Python    | Mitologia |
 
 > ### **Conteúdo do jogo:**
 * *mitología egípcia*  
